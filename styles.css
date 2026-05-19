@@ -1,0 +1,18 @@
+body{
+  padding: 25px;
+  color: #FFFFFF;
+  background: #87CEED;
+}
+.title {
+}
+section{
+  border: 1px solid; /* border */
+  max-width: 500px;
+  padding: 30px; /* padding */
+}
+
+img {
+  border: 1px solid; /* image border */
+  max-width: 100px;
+  min-width: 100px;
+}
